@@ -40,6 +40,7 @@ $~$
 [comment]: #https://github.com/anuraghazra/github-readme-stats
 [comment]: #&include_all_commits=true
 [comment]: #https://jsfiddle.net/teddyrised/g02s07n4/
+[comment]: #https://rgbacolorpicker.com/rgba-to-hex
 [<img src="https://github-readme-stats.vercel.app/api?username=ak47us&hide_border=true&theme=blueberry&bg_color=10101010&rank_icon=percentile&custom_title=Activity%20percentile&show_icons=true&hide=stars,commits,prs,issues,contribs">](https://profile-summary-for-github.com/user/ak47us "If this does not load, it is likely due to the Vercel app's cache being out of date. A privacy setting was likely changed on the GitHub side.")
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak47us&layout=compact&theme=blueberry&bg_color=10101010&langs_count=10&custom_title=Languages&hide_border=true" href="https://profile-summary-for-github.com/user/ak47us">](https://profile-summary-for-github.com/user/ak47us)
