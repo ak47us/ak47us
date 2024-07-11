@@ -11,9 +11,11 @@ $~$
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=docker"/>]()
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=express"/>]()
 [<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>]()
+[<img height="50" width="50" src="https://skillicons.dev/icons?i=go"/>]()
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=html"/>]()
 [<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>]()
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=java"/>]()
+[<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>]()
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=js"/>]()
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=jenkins"/>]()
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=jquery"/>]()
@@ -32,8 +34,6 @@ $~$
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=regex"/>]()
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=md"/>]()
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=vim"/>]()
-
-$~$
 
 ## My stats (click for more info)
 ### GitHub:
