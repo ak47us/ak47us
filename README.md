@@ -38,11 +38,24 @@
 [comment]: # (Widget: https://github.com/anuraghazra/github-readme-stats)
 [comment]: # (Transparent-RGB-to-hex editor: https://rgbacolorpicker.com/rgba-to-hex)
 [comment]: # (Transparent-RGB-to-hex editor: https://jsfiddle.net/teddyrised/g02s07n4/)
+[comment]: # (GitHub theme documentation: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to)
 [comment]: # (If this widget does not load, it is likely due to the Vercel app's cache being out of date. A privacy setting was likely changed on the GitHub side. It will automatically resolve in 24 hours.)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=ak47us&hide_border=false&theme=transparent&bg_color=10101003&rank_icon=percentile&custom_title=Activity%20percentile&show_icons=true&title_color=94b5fd&text_color=0d6f3f&border_color=404040&hide=stars,commits,prs,issues,contribs">](https://profile-summary-for-github.com/user/ak47us "Click for more stats.")
 
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ak47us&bg_color=10101003&layout=compact&theme=transparent&title_color=94b5fd&text_color=0d6f3f&border_color=404040&custom_title=Languages&langs_count=10&hide_border=false&include_all_commits=true)](https://profile-summary-for-github.com/user/ak47us "Click for more stats.")
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ak47us&theme=blueberry&bg_color=101010&rank_icon=percentile&custom_title=Activity%20percentile&show_icons=true&title_color=f0f0f0&text_color=0d6f3f&border_color=404040&hide=stars,commits,prs,issues,contribs">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ak47us&theme=blueberry&bg_color=ffffff&rank_icon=percentile&custom_title=Activity%20percentile&show_icons=true&title_color=000000&text_color=0d6f3f&border_color=e5e5e5&hide=stars,commits,prs,issues,contribs">
+  <img alt="Click for more stats." src="https://profile-summary-for-github.com/user/ak47us">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ak47us&bg_color=101010&layout=compact&theme=blueberry&title_color=f0f0f0&text_color=0d6f3f&border_color=404040&custom_title=Languages&langs_count=10&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ak47us&bg_color=ffffff&layout=compact&theme=blueberry&title_color=000000&text_color=0d6f3f&border_color=e5e5e5&custom_title=Languages&langs_count=10&include_all_commits=true">
+  <img alt="Click for more stats." src="https://profile-summary-for-github.com/user/ak47us">
+</picture>
+
 
 ### LeetCode algorithms:
 [comment]: # (https://github.com/JacobLinCool/LeetCode-Stats-Card)
