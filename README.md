@@ -58,15 +58,15 @@ Decided to just stick to a neutral theme until the bugs are ironed out.
 </picture>
 -->
 
-[![GitHub contributions](https://github-readme-stats.vercel.app/api?username=ak47us&theme=blueberry&bg_color=ffffff&rank_icon=percentile&custom_title=Activity%20percentile&show_icons=true&title_color=000000&text_color=0d6f3f&border_color=404040&hide=stars,commits,prs,issues,contribs)](https://profile-summary-for-github.com/user/ak47us "Click for more stats.")
+[![GitHub contributions](https://github-readme-stats.vercel.app/api?username=ak47us&theme=blueberry&bg_color=ffffff&rank_icon=percentile&custom_title=Activity%20percentile&show_icons=true&title_color=000000&text_color=0d6f3f&border_color=404040&hide=stars,commits,prs,issues,contribs)](https://profile-summary-for-github.com/user/ak47us "Click to see more stats.")
 [![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=ak47us&bg_color=ffffff&layout=compact&theme=blueberry&title_color=000000&text_color=0d6f3f&border_color=404040&custom_title=Languages&langs_count=10&include_all_commits=true
-)](https://profile-summary-for-github.com/user/ak47us "Click for more stats.")
+)](https://profile-summary-for-github.com/user/ak47us "Click to see more stats.")[^1]
 
 
 ### LeetCode algorithms:
 
 [comment]: # (https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
-[![LeetCode algorithms](https://leetcard.jacoblin.cool/ak47us?theme=light,dark)](https://leetcode.com/u/ak47us/ "Click for more stats.")
+[![LeetCode algorithms](https://leetcard.jacoblin.cool/ak47us?theme=light,dark)](https://leetcode.com/u/ak47us/ "Click to see more stats.")
 
-**Click each card for more stats.*
+[^1]: Click each card to see more stats.
